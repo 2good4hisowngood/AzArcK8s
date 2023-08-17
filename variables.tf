@@ -27,6 +27,5 @@ variable "prefix" {
 
 variable "machine-1-name" {
     description = "Name of the first machine"
-    default = "DESKTOP-2FPSMBA"
 }
 
