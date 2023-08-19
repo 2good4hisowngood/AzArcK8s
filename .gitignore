@@ -1,7 +1,7 @@
 # BS I created to help or notes I was taking
 *.terraform.lock.hcl
 .drawio.svg
-
+.ignore*
 # who knows, looking cute, I might include it later.
 launch.ps1
 *.ps1
